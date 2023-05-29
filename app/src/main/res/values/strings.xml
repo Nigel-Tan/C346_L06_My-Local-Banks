@@ -20,4 +20,5 @@
     <string name="toggle_favourite">Toggle Favourite</string>
     <string name="redcolor">#df2c14</string>
     <string name="blackcolor">#000000</string>
+    <string name="instructions">Press and hold banks below for more info</string>
 </resources>
